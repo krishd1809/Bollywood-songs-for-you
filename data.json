@@ -3932,7 +3932,19 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
-    }
+    },
+     {
+       "id": 227,
+       "name": "ek galti",
+       "lyrics": "https://www.lyricslite.com/lyrics/ek-galti-shivai",
+       "album": "Race 3",
+       "Duration": "5 min 21 sec",
+       "singer": ["Shivai Vyas"],
+       "genre": ["Romantic","Indian Film Pop"],
+       "link": "https://www.youtube.com/watch?v=4kj-O4hIfXM"
+    } 
+
+       
     
     ]
     
